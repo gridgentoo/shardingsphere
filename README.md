@@ -26,6 +26,9 @@
 
 ShardingSphere следует концепции Database Plus - руководящей концепции развития нашего сообщества для создания полной экосистемы, которая позволяет преобразовать любую базу данных в распределенную систему баз данных  distributed database system и легко улучшить ее с помощью сегментирования, эластичного масштабирования elastic scaling, функций шифрования данных data encryption features и многого другого.
 
+[_ProxyLess & Kubernetes] Реверс Инжиниринг Архитектуры  
+https://drive.google.com/drive/folders/1dUfr1kxZKKXgAhzvWsg3eco1e2nAkhgo    
+
 [Proxyless & ShardingSphere & xDS]&[ShardingSphere-Proxy & ARM & Huawei Taishan]  10 миллионов транзакций в минуту  
 https://docs.google.com/document/d/1oB8Env4P5TcMfvFf7VF_uynSGlyYDoE3QcBYXdxrRQU/    
 
