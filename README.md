@@ -24,7 +24,7 @@
 
 <hr>
 
-Apache ShardingSphere follows Database Plus - our community's guiding development concept for creating a complete ecosystem that allows you to transform any database into a distributed database system, and easily enhance it with sharding, elastic scaling, data encryption features & more. 
+ShardingSphere следует концепции Database Plus - руководящей концепции развития нашего сообщества для создания полной экосистемы, которая позволяет преобразовать любую базу данных в распределенную систему баз данных  distributed database system и легко улучшить ее с помощью сегментирования, эластичного масштабирования elastic scaling, функций шифрования данных data encryption features и многого другого.
 
 It focuses on repurposing existing databases, by placing a standardized upper layer above existing and fragmented databases, rather than creating a new database. 
 
