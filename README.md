@@ -26,6 +26,15 @@
 
 ShardingSphere следует концепции Database Plus - руководящей концепции развития нашего сообщества для создания полной экосистемы, которая позволяет преобразовать любую базу данных в распределенную систему баз данных  distributed database system и легко улучшить ее с помощью сегментирования, эластичного масштабирования elastic scaling, функций шифрования данных data encryption features и многого другого.
 
+[Proxyless & ShardingSphere & xDS]&[ShardingSphere-Proxy & ARM & Huawei Taishan]  10 миллионов транзакций в минуту  
+https://docs.google.com/document/d/1oB8Env4P5TcMfvFf7VF_uynSGlyYDoE3QcBYXdxrRQU/    
+
+Для приложений, чувствительных к производительности, ShardingSphere-JDBC, который совпадает с концепцией проектирования Proxyless Service Mesh, 
+несомненно, более применим и может использоваться для максимизации производительности системы.
+ Недавний тест производительности с 16 серверами модели TPC-C model с использованием ShardingSphere plus  
+плюс openGauss показал более 10 миллионов транзакций в минуту (tpmC), побив рекорды производительности.  
+https://docs.google.com/document/d/1YYfP_XDrufa8LJYIXfl-oncpLI-E-5dwKaWXfisFaG8/   
+
 It focuses on repurposing existing databases, by placing a standardized upper layer above existing and fragmented databases, rather than creating a new database. 
 
 The goal is to provide unified database services, and minimize or eliminate the challenges caused by underlying databases' fragmentation. 
