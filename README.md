@@ -36,7 +36,10 @@ https://docs.google.com/document/d/1oB8Env4P5TcMfvFf7VF_uynSGlyYDoE3QcBYXdxrRQU/
 несомненно, более применим и может использоваться для максимизации производительности системы.
  Недавний тест производительности с 16 серверами модели TPC-C model с использованием ShardingSphere plus  
 плюс openGauss показал более 10 миллионов транзакций в минуту (tpmC), побив рекорды производительности.  
-https://docs.google.com/document/d/1YYfP_XDrufa8LJYIXfl-oncpLI-E-5dwKaWXfisFaG8/   
+https://docs.google.com/document/d/1YYfP_XDrufa8LJYIXfl-oncpLI-E-5dwKaWXfisFaG8/  
+
+[_xds, sds, lds, eds...] LdsGenerator, RdsGenerator & и другие Генераторы   
+https://drive.google.com/drive/folders/1ZCiyvjs3xtHM4Jp44HVUuBhOydUVStBB    
 
 It focuses on repurposing existing databases, by placing a standardized upper layer above existing and fragmented databases, rather than creating a new database. 
 
